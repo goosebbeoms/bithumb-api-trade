@@ -25,7 +25,7 @@ const LOCAL_MARKETS: MarketData[] = [
   { market: "KRW-EOS", korean_name: "이오스", english_name: "EOS" },
   { market: "KRW-TRX", korean_name: "트론", english_name: "TRON" },
   { market: "KRW-ADA", korean_name: "에이다", english_name: "Cardano" },
-  { market: "KRW-SOL", korean_name: "솔", english_name: "Solana" },
+  { market: "KRW-SOL", korean_name: "솔라나", english_name: "Solana" },
   { market: "KRW-DOGE", korean_name: "도지", english_name: "Dogecoin" },
   { market: "KRW-LINK", korean_name: "체인링크", english_name: "Chainlink" },
   { market: "KRW-USDC", korean_name: "USD코인", english_name: "USD Coin" },
